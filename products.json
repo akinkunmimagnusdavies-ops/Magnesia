@@ -41,7 +41,7 @@
   
   {
     "id": 4,
-    "name": "Birthday cake (Red Velvet)",
+    "name": "Birthday cake",
     "size": "20 inches",
     "category": "birthday-cakes",
     "type": "birthday-cakes",
@@ -80,7 +80,7 @@
   },
   {
     "id": 7,
-    "name": "Magnesia Pink Frosting (Dr Shugar's Special)",
+    "name": "Magnesia Pink Frosting",
     "size": "300ml",
     "category": "deserts",
     "type": "deserts",
