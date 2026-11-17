@@ -3,7 +3,7 @@ let products = [];
 let cart = JSON.parse(localStorage.getItem('cart')) || [];
 
 const PAYSTACK_PUBLIC_KEY = 'pk_test_f61fad5552949430512133b7d060f90d158660ef';
-const WHATSAPP_NUMBER = '2349156002887';
+const WHATSAPP_NUMBER = '2347033189863';
 const BACKEND_VERIFY_URL = '/api/verify-paystack';
 
 if ('scrollRestoration' in history) history.scrollRestoration = 'manual';
